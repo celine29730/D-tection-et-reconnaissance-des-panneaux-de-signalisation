@@ -30,4 +30,8 @@ L'interface graphique rélisé permet de bien classer nos panneaux avec le libé
 
 Il suffit pour cela de cliquer sur **UPLOAD an image** afin de télécharger une image.
 
-img = [https://github.com/celine29730/D-tection-et-reconnaissance-des-panneaux-de-signalisation/blob/main/image1.png]
+[image1](https://github.com/celine29730/D-tection-et-reconnaissance-des-panneaux-de-signalisation/blob/main/image1.png)
+
+puis d'appuyer sur **CLASSIFY** pour avoir le libéllé qui correspond à l'image.
+
+[image2]
