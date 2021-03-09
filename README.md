@@ -34,4 +34,4 @@ Il suffit pour cela de cliquer sur **UPLOAD an image** afin de télécharger une
 
 puis d'appuyer sur **CLASSIFY** pour avoir le libéllé qui correspond à l'image.
 
-[image2]
+[image2](https://github.com/celine29730/D-tection-et-reconnaissance-des-panneaux-de-signalisation/blob/main/image%202.png)
