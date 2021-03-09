@@ -27,6 +27,7 @@ Dans notre projet, nous allons créer un modèle de réseau neuronal profond qui
 Suite à notre étude,nous avons bien classé le classificateur des panneaux de signalisation avec une précision de 95% et avons également visualisé comment notre précision et notre perte changent avec le temps, ce qui est plutôt bon à partir d'un simple modèle CNN.
 
 L'interface graphique rélisé permet de bien classer nos panneaux avec le libéllé qui convient:
+[image4](https://github.com/celine29730/D-tection-et-reconnaissance-des-panneaux-de-signalisation/blob/main/image%204.png)
 
 Il suffit pour cela de cliquer sur **UPLOAD an image** afin de télécharger une image.
 
