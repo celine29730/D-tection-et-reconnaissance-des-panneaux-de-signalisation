@@ -1,4 +1,4 @@
-¶
+¶# Détection et reconnaissance des panneaux de signalisation
 
 Objectif de l'étude: construire un modèle IA pour la détection et la reconnaissance des panneaux de signalisation sur les images et sur la vidéo.
 Contexte du projet
