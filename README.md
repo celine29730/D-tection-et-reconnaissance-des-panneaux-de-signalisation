@@ -8,7 +8,7 @@ Dans le monde de l'IA des grandes entreprises comme Tesla, Uber, Google, Mercede
 Une interface graphique est demandée:
 
 * Qui permet de détecter dans une image les panneaux de signalisation et les reconnaitre (Afficher le label en Français).
-* Qui permet de détecter tous les panneaux dans une vidéo les reconnaitre et les afficher avec leurs labels.
+
 
 Description des fichiers
 
